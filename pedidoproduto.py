@@ -1,3 +1,8 @@
+# Alunos:
+# Bruno Amorim da Silva RA: 20630380
+# Carlos Antony Blecha Pires RA: 20630414
+# Cícero Matheus Cabral RA: 20630406
+
 pedido = dict()
 pedidos = list()
 tabela_precos = dict()
